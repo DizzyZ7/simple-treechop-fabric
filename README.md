@@ -1,3 +1,10 @@
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21+-62B246?style=for-the-badge&logo=minecraft&logoColor=white)
+![Loader](https://img.shields.io/badge/Loader-Fabric-f0d2b4?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
 # 🪓 Simple TreeChop (Fabric)
 
 Developed by **DizzyZ7**. 
