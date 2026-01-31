@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "simple_treechop",
+  "version": "1.0.0",
+  "name": "Simple TreeChop",
+  "description": "A survival-friendly tree felling mod by DizzyZ7.",
+  "authors": [
+    "DizzyZ7"
+  ],
+  "contact": {
+    "sources": "https://github.com/DizzyZ7/simple-treechop-fabric"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.dizzyz7.treechop.TreeChopMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21",
+    "fabric-api": "*"
+  }
+}
